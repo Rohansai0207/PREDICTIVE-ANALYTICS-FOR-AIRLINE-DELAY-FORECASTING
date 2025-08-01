@@ -1,0 +1,501 @@
+Airline,Airplane Number,Arrival Time,Departure Time,Arrival Location,Departure Location,Weather,Historical Delays,Air Traffic Control,Result
+Air India,AI753,22:56,17:01,Dubai (DXB),Bengaluru (BLR),Rainy,Minor Delay,Heavy,0.3864641771707082
+British Airways,AI720,18:08,22:29,Bengaluru (BLR),Frankfurt (FRA),Cloudy,Minor Delay,Heavy,0.14232796596402186
+Qatar Airways,AI484,11:06,01:59,Hyderabad (HYD),London (LHR),Cloudy,Minor Delay,Smooth,0.24525594272529572
+Qatar Airways,AI202,02:14,05:05,Dubai (DXB),New York (JFK),Sunny,Minor Delay,Moderate,0.07644544647629191
+Lufthansa,LU529,06:09,18:27,Mumbai (BOM),Dubai (DXB),Cloudy,Major Delay,Heavy,0.3037763700331626
+Singapore Airlines,SI333,00:47,18:39,New York (JFK),Hyderabad (HYD),Sunny,On-time,Heavy,0.21990657048522283
+Qatar Airways,AI261,11:20,20:54,Bengaluru (BLR),London (LHR),Cloudy,Major Delay,Heavy,0.2551451145575106
+IndiGo,IN975,09:13,06:46,Delhi (DEL),London (LHR),Sunny,On-time,Smooth,0.5859020588760894
+Lufthansa,LU354,08:49,02:42,Hyderabad (HYD),Bengaluru (BLR),Sunny,Minor Delay,Smooth,0.16120103265036384
+Emirates,EM180,05:19,02:10,Frankfurt (FRA),Mumbai (BOM),Cloudy,On-time,Smooth,0.247879873975403
+Air India,AI472,11:34,10:44,Frankfurt (FRA),Singapore (SIN),Cloudy,On-time,Moderate,0.0912765910611586
+Air India,AI930,16:11,15:29,Singapore (SIN),Bengaluru (BLR),Rainy,On-time,Smooth,0.351667171959
+British Airways,AI884,22:25,22:50,Mumbai (BOM),Singapore (SIN),Rainy,On-time,Moderate,0.4527391011457607
+Singapore Airlines,AI313,06:35,05:46,Mumbai (BOM),Bengaluru (BLR),Rainy,On-time,Smooth,0.540430400853932
+Air India,IN429,06:08,16:50,Hyderabad (HYD),New York (JFK),Rainy,Major Delay,Heavy,0.25718611907231476
+Singapore Airlines,SI778,08:22,22:14,Chennai (MAA),Bengaluru (BLR),Rainy,On-time,Smooth,0.5032525588512948
+Emirates,EM211,10:54,18:24,Dubai (DXB),Delhi (DEL),Cloudy,Minor Delay,Heavy,0.34584804178175876
+Lufthansa,LU254,11:54,09:00,Bengaluru (BLR),Delhi (DEL),Cloudy,Minor Delay,Heavy,0.24687943116288819
+Emirates,EM423,17:07,17:05,Delhi (DEL),London (LHR),Cloudy,Major Delay,Smooth,0.3063192528973188
+IndiGo,IN329,21:07,10:53,Mumbai (BOM),Bengaluru (BLR),Sunny,On-time,Heavy,0.5919511238359715
+Qatar Airways,AI956,18:53,21:15,Chennai (MAA),Frankfurt (FRA),Cloudy,On-time,Smooth,0.24459599210421729
+Air India,IN619,13:50,13:34,Bengaluru (BLR),Frankfurt (FRA),Sunny,Major Delay,Moderate,0.34132495000174984
+British Airways,BR636,12:48,14:08,Frankfurt (FRA),Singapore (SIN),Rainy,On-time,Moderate,0.554594759001025
+IndiGo,IN710,08:22,03:04,London (LHR),Frankfurt (FRA),Cloudy,On-time,Heavy,0.280853172139331
+Qatar Airways,AI620,05:41,15:36,Hyderabad (HYD),London (LHR),Rainy,Major Delay,Smooth,0.5750736855230159
+Air India,AI347,16:27,11:03,Dubai (DXB),Singapore (SIN),Sunny,Minor Delay,Smooth,0.2566268154763306
+IndiGo,IN436,16:36,21:31,Chennai (MAA),New York (JFK),Cloudy,Major Delay,Heavy,0.3689985303433032
+Air India,IN388,19:46,05:52,Hyderabad (HYD),Singapore (SIN),Sunny,Major Delay,Smooth,0.27127859080156447
+Lufthansa,LU972,14:25,12:48,Hyderabad (HYD),Singapore (SIN),Rainy,Major Delay,Heavy,0.3268200539146676
+Emirates,EM980,12:35,06:45,New York (JFK),Delhi (DEL),Rainy,Minor Delay,Smooth,0.43495911454095565
+Qatar Airways,QA425,12:07,06:36,Bengaluru (BLR),Hyderabad (HYD),Rainy,On-time,Heavy,0.4357381998299037
+British Airways,BR989,05:09,04:49,Delhi (DEL),Mumbai (BOM),Sunny,On-time,Heavy,0.28506695671865606
+Qatar Airways,AI644,22:22,15:51,London (LHR),Chennai (MAA),Sunny,On-time,Smooth,0.4041682172633486
+Emirates,EM716,06:01,12:35,Hyderabad (HYD),Bengaluru (BLR),Cloudy,On-time,Smooth,0.3224594236888585
+Qatar Airways,QA424,04:22,17:59,New York (JFK),Chennai (MAA),Cloudy,On-time,Moderate,0.25846000024597643
+Air India,IN551,15:32,08:26,Chennai (MAA),London (LHR),Rainy,Major Delay,Heavy,0.05682698167919743
+IndiGo,IN909,18:33,10:51,Singapore (SIN),Bengaluru (BLR),Sunny,Minor Delay,Smooth,0.5050989121779932
+Singapore Airlines,AI994,06:05,10:40,Bengaluru (BLR),Mumbai (BOM),Rainy,On-time,Heavy,0.3716841309646894
+Singapore Airlines,SI623,08:40,00:24,Frankfurt (FRA),New York (JFK),Cloudy,On-time,Heavy,0.052949441848771296
+IndiGo,IN456,09:16,19:51,Chennai (MAA),Dubai (DXB),Rainy,Major Delay,Smooth,0.25680912961881813
+Air India,AI710,13:44,09:00,Bengaluru (BLR),Delhi (DEL),Cloudy,On-time,Smooth,0.5129569304006046
+Singapore Airlines,SI845,08:30,03:31,Singapore (SIN),Chennai (MAA),Cloudy,On-time,Moderate,0.2271926278659147
+Air India,IN719,19:30,10:10,Bengaluru (BLR),Mumbai (BOM),Sunny,Major Delay,Moderate,0.5688494914443966
+Air India,IN444,03:25,23:30,Dubai (DXB),Bengaluru (BLR),Cloudy,Major Delay,Heavy,0.11460377470033288
+British Airways,BR771,05:43,14:38,Hyderabad (HYD),Delhi (DEL),Rainy,On-time,Smooth,0.2921912705586364
+Air India,AI524,00:51,11:09,Hyderabad (HYD),New York (JFK),Sunny,On-time,Heavy,0.3935837472737278
+Emirates,EM565,06:53,15:13,Hyderabad (HYD),London (LHR),Rainy,On-time,Moderate,0.4493283803298956
+Emirates,EM318,14:28,23:55,London (LHR),Singapore (SIN),Rainy,Major Delay,Moderate,0.11382185606493113
+Lufthansa,LU559,23:03,21:53,Delhi (DEL),Dubai (DXB),Cloudy,Minor Delay,Moderate,0.22797987939500075
+Lufthansa,LU622,11:46,23:29,Hyderabad (HYD),Bengaluru (BLR),Cloudy,Major Delay,Moderate,0.28729322455252826
+British Airways,AI238,10:21,11:34,New York (JFK),Bengaluru (BLR),Rainy,On-time,Moderate,0.5745564498141323
+Singapore Airlines,AI976,05:28,13:34,New York (JFK),Delhi (DEL),Sunny,On-time,Heavy,0.07554736390718828
+Emirates,EM640,16:56,05:59,Bengaluru (BLR),New York (JFK),Rainy,Major Delay,Smooth,0.149568425439488
+Lufthansa,LU719,04:09,03:49,London (LHR),Dubai (DXB),Cloudy,On-time,Moderate,0.19710050930341483
+Air India,AI831,21:21,02:10,Hyderabad (HYD),New York (JFK),Cloudy,On-time,Smooth,0.2876964409724811
+Singapore Airlines,AI403,16:13,07:30,Chennai (MAA),Dubai (DXB),Cloudy,Major Delay,Heavy,0.41654995247748017
+Singapore Airlines,AI835,12:24,05:58,Singapore (SIN),Frankfurt (FRA),Cloudy,Minor Delay,Heavy,0.558589858642224
+Air India,AI242,15:39,00:04,Mumbai (BOM),Bengaluru (BLR),Rainy,On-time,Smooth,0.44309099074216285
+Singapore Airlines,AI743,00:53,04:58,Hyderabad (HYD),London (LHR),Cloudy,On-time,Moderate,0.4778214023789933
+Qatar Airways,QA842,16:42,03:38,Singapore (SIN),London (LHR),Rainy,On-time,Smooth,0.1719122490241456
+Qatar Airways,QA269,09:46,14:26,Bengaluru (BLR),Singapore (SIN),Rainy,Major Delay,Smooth,0.5148253537658328
+British Airways,BR886,23:07,13:56,Singapore (SIN),Frankfurt (FRA),Cloudy,Minor Delay,Moderate,0.5823289643832801
+Qatar Airways,QA893,11:25,09:30,Delhi (DEL),Frankfurt (FRA),Sunny,Major Delay,Heavy,0.4188036815327428
+Qatar Airways,AI765,12:09,13:32,Frankfurt (FRA),Mumbai (BOM),Sunny,Major Delay,Moderate,0.34732217993010467
+Qatar Airways,AI731,01:09,02:01,Mumbai (BOM),Chennai (MAA),Rainy,Minor Delay,Smooth,0.2299600522746863
+Air India,IN809,06:51,13:48,Delhi (DEL),Dubai (DXB),Sunny,On-time,Heavy,0.18765291173282095
+Air India,AI790,05:25,00:23,Hyderabad (HYD),Chennai (MAA),Cloudy,Minor Delay,Smooth,0.21818644120270858
+Air India,IN950,02:29,15:51,London (LHR),Chennai (MAA),Rainy,On-time,Heavy,0.5958371545112766
+Air India,IN374,11:49,23:35,Dubai (DXB),Delhi (DEL),Cloudy,On-time,Moderate,0.48725302740665094
+Air India,IN374,04:51,12:16,Dubai (DXB),Hyderabad (HYD),Sunny,On-time,Smooth,0.47916031452122276
+Qatar Airways,AI524,09:41,06:57,Singapore (SIN),Frankfurt (FRA),Rainy,On-time,Smooth,0.5792016824340858
+British Airways,AI797,09:52,22:48,Singapore (SIN),New York (JFK),Rainy,On-time,Moderate,0.10774529858235132
+IndiGo,IN462,18:02,06:27,Singapore (SIN),Hyderabad (HYD),Sunny,Minor Delay,Heavy,0.29019306910552245
+Qatar Airways,QA379,17:23,21:49,Bengaluru (BLR),London (LHR),Rainy,On-time,Heavy,0.30549716772984525
+Qatar Airways,QA567,12:08,00:09,Mumbai (BOM),Bengaluru (BLR),Cloudy,Minor Delay,Heavy,0.17588489279339137
+IndiGo,IN651,02:11,04:29,New York (JFK),Frankfurt (FRA),Sunny,Major Delay,Moderate,0.42234298731070397
+IndiGo,IN287,09:02,20:51,Delhi (DEL),Mumbai (BOM),Sunny,Major Delay,Heavy,0.07778544307495101
+Lufthansa,LU815,20:38,03:46,Singapore (SIN),New York (JFK),Sunny,Minor Delay,Moderate,0.08035578823408211
+IndiGo,IN609,08:49,06:46,Bengaluru (BLR),Delhi (DEL),Rainy,On-time,Heavy,0.24137651127295845
+Air India,IN882,01:53,14:44,Delhi (DEL),Chennai (MAA),Sunny,Minor Delay,Heavy,0.11130325479969647
+British Airways,AI462,08:15,23:13,Hyderabad (HYD),Dubai (DXB),Rainy,On-time,Smooth,0.320789738255465
+Singapore Airlines,SI551,04:38,21:20,Dubai (DXB),New York (JFK),Cloudy,Major Delay,Moderate,0.48855097528691405
+Emirates,EM476,17:51,22:38,London (LHR),Hyderabad (HYD),Sunny,Major Delay,Heavy,0.07473691416540641
+Emirates,EM962,03:07,00:23,Bengaluru (BLR),Delhi (DEL),Sunny,Major Delay,Heavy,0.24333225600280545
+Air India,IN954,19:08,21:01,Hyderabad (HYD),Mumbai (BOM),Sunny,Major Delay,Moderate,0.05188424759244504
+Lufthansa,LU923,02:55,13:21,Singapore (SIN),Bengaluru (BLR),Sunny,On-time,Moderate,0.19033450588942435
+IndiGo,IN255,16:52,01:40,Bengaluru (BLR),Hyderabad (HYD),Cloudy,On-time,Moderate,0.587565424101555
+Air India,IN739,08:20,14:35,Singapore (SIN),London (LHR),Sunny,Major Delay,Moderate,0.09650024470102622
+British Airways,AI530,18:05,02:11,London (LHR),Singapore (SIN),Sunny,Minor Delay,Heavy,0.1165350324926693
+Lufthansa,LU174,04:54,06:11,Delhi (DEL),Chennai (MAA),Sunny,Major Delay,Moderate,0.3220321867847143
+Singapore Airlines,SI601,23:17,14:37,Mumbai (BOM),Chennai (MAA),Cloudy,On-time,Heavy,0.48981625578038407
+Qatar Airways,AI357,01:54,06:40,Dubai (DXB),New York (JFK),Sunny,On-time,Moderate,0.2182094479113585
+Lufthansa,LU439,18:56,14:34,Delhi (DEL),Bengaluru (BLR),Rainy,Major Delay,Heavy,0.18220543451873322
+Qatar Airways,AI727,03:29,20:58,Dubai (DXB),London (LHR),Cloudy,Minor Delay,Moderate,0.20008344196064348
+Emirates,EM746,23:47,13:37,Hyderabad (HYD),Mumbai (BOM),Rainy,Major Delay,Moderate,0.12998590507315463
+Lufthansa,LU285,01:09,05:10,Dubai (DXB),Delhi (DEL),Cloudy,On-time,Moderate,0.40687217911220963
+Qatar Airways,QA242,21:10,11:42,Hyderabad (HYD),Dubai (DXB),Cloudy,Major Delay,Heavy,0.2931422967394745
+IndiGo,IN875,23:34,14:19,Dubai (DXB),Mumbai (BOM),Sunny,Major Delay,Moderate,0.5189933973626236
+IndiGo,IN391,07:38,06:01,New York (JFK),Dubai (DXB),Rainy,On-time,Smooth,0.23354978988448283
+Air India,AI139,04:48,11:29,London (LHR),New York (JFK),Sunny,Minor Delay,Moderate,0.06549147657337295
+Emirates,EM151,01:07,02:57,London (LHR),Mumbai (BOM),Sunny,Major Delay,Moderate,0.37070984012338437
+British Airways,AI469,06:59,21:22,Bengaluru (BLR),Singapore (SIN),Rainy,On-time,Smooth,0.542754377556596
+Air India,IN904,20:52,10:20,Hyderabad (HYD),Mumbai (BOM),Rainy,Major Delay,Smooth,0.25324852876953796
+British Airways,BR916,11:16,09:19,Mumbai (BOM),Frankfurt (FRA),Rainy,Minor Delay,Heavy,0.17003917849727507
+Qatar Airways,AI265,14:22,04:17,Singapore (SIN),New York (JFK),Sunny,Major Delay,Smooth,0.506455635637921
+Lufthansa,LU533,04:08,01:08,Chennai (MAA),Mumbai (BOM),Cloudy,On-time,Moderate,0.2536528494778623
+Lufthansa,LU283,09:34,13:29,Delhi (DEL),Hyderabad (HYD),Cloudy,On-time,Moderate,0.2322550289040356
+IndiGo,IN823,06:21,06:19,Hyderabad (HYD),London (LHR),Cloudy,On-time,Smooth,0.06793928689916745
+Singapore Airlines,AI807,08:46,19:03,London (LHR),Hyderabad (HYD),Sunny,On-time,Smooth,0.3174303306284803
+IndiGo,IN503,19:47,20:10,Frankfurt (FRA),Mumbai (BOM),Cloudy,Minor Delay,Moderate,0.10205177256814987
+Air India,AI593,15:07,04:55,New York (JFK),Mumbai (BOM),Rainy,Minor Delay,Smooth,0.15520166902961258
+Emirates,EM824,12:35,18:32,Dubai (DXB),Bengaluru (BLR),Rainy,Major Delay,Heavy,0.263933965443106
+British Airways,BR117,04:45,13:22,Delhi (DEL),Singapore (SIN),Sunny,On-time,Smooth,0.11777667202242412
+British Airways,BR654,12:46,15:21,Singapore (SIN),London (LHR),Sunny,Major Delay,Moderate,0.2464066085760785
+Air India,IN553,13:24,22:42,Delhi (DEL),Hyderabad (HYD),Sunny,Minor Delay,Smooth,0.08090241250284239
+Lufthansa,LU642,18:32,23:35,Chennai (MAA),London (LHR),Cloudy,On-time,Heavy,0.23387161340173068
+Qatar Airways,AI786,19:56,19:18,Singapore (SIN),London (LHR),Sunny,Minor Delay,Moderate,0.26200791733999956
+Air India,AI157,05:33,02:10,London (LHR),Singapore (SIN),Rainy,Minor Delay,Moderate,0.18081510259530964
+Lufthansa,LU920,08:40,00:02,London (LHR),Singapore (SIN),Rainy,Major Delay,Smooth,0.48808664693923337
+IndiGo,IN209,06:58,08:39,Hyderabad (HYD),Chennai (MAA),Cloudy,Major Delay,Moderate,0.1722948075923054
+Emirates,EM881,18:42,22:11,Dubai (DXB),Hyderabad (HYD),Sunny,Major Delay,Moderate,0.21671222226786613
+British Airways,AI826,03:34,15:26,Singapore (SIN),Frankfurt (FRA),Rainy,Major Delay,Heavy,0.4613834425506029
+Qatar Airways,AI875,20:29,01:22,Chennai (MAA),Hyderabad (HYD),Rainy,Major Delay,Moderate,0.20914036804973457
+British Airways,AI413,14:47,01:30,Singapore (SIN),Dubai (DXB),Rainy,On-time,Moderate,0.14053066770658712
+Qatar Airways,AI838,17:24,18:19,Singapore (SIN),Delhi (DEL),Cloudy,Minor Delay,Heavy,0.5162300641171296
+IndiGo,IN439,13:43,07:35,Singapore (SIN),Mumbai (BOM),Rainy,Major Delay,Smooth,0.5366468901832241
+IndiGo,IN541,09:06,14:05,Mumbai (BOM),Chennai (MAA),Sunny,On-time,Moderate,0.5278910655518004
+Emirates,EM204,03:27,02:20,London (LHR),Singapore (SIN),Cloudy,Major Delay,Moderate,0.2774366993517876
+Lufthansa,LU998,02:16,22:50,Hyderabad (HYD),Singapore (SIN),Sunny,Major Delay,Heavy,0.4234579998576113
+Lufthansa,LU927,20:21,21:30,Frankfurt (FRA),New York (JFK),Cloudy,On-time,Moderate,0.4276131135206051
+Singapore Airlines,AI647,20:53,01:37,Dubai (DXB),Frankfurt (FRA),Sunny,Minor Delay,Smooth,0.36249032546146553
+Air India,AI748,14:16,10:02,London (LHR),Chennai (MAA),Rainy,Major Delay,Smooth,0.361754984539448
+Singapore Airlines,SI806,01:16,06:03,Chennai (MAA),Delhi (DEL),Sunny,Major Delay,Heavy,0.4138862963406804
+Singapore Airlines,SI355,11:15,11:02,Hyderabad (HYD),Chennai (MAA),Cloudy,Minor Delay,Heavy,0.4694511042059397
+Qatar Airways,QA582,13:53,10:24,Delhi (DEL),Mumbai (BOM),Sunny,Major Delay,Moderate,0.1428219858192204
+Air India,IN805,10:15,17:45,Hyderabad (HYD),Delhi (DEL),Sunny,Minor Delay,Smooth,0.23052002817479395
+Singapore Airlines,AI226,16:46,09:13,Delhi (DEL),Chennai (MAA),Sunny,Minor Delay,Heavy,0.42969037797209686
+Singapore Airlines,AI836,12:33,02:00,London (LHR),Delhi (DEL),Cloudy,Major Delay,Moderate,0.0884315008867166
+Singapore Airlines,AI337,00:33,18:19,Dubai (DXB),Hyderabad (HYD),Sunny,On-time,Moderate,0.5337051165331429
+British Airways,BR859,01:41,07:33,New York (JFK),Chennai (MAA),Sunny,On-time,Moderate,0.4824392103661963
+Singapore Airlines,AI226,03:28,21:46,Frankfurt (FRA),London (LHR),Cloudy,Major Delay,Moderate,0.058115957542874255
+Emirates,EM708,08:04,16:10,New York (JFK),Mumbai (BOM),Rainy,Major Delay,Moderate,0.48408342355891887
+Singapore Airlines,AI415,18:17,08:23,Delhi (DEL),Frankfurt (FRA),Cloudy,Minor Delay,Heavy,0.5618149545895262
+Singapore Airlines,AI174,11:22,15:14,Mumbai (BOM),New York (JFK),Cloudy,Minor Delay,Moderate,0.5692355095454877
+Emirates,EM990,17:05,09:49,Bengaluru (BLR),Singapore (SIN),Sunny,Major Delay,Heavy,0.30374988425001714
+Qatar Airways,QA161,08:07,22:17,Chennai (MAA),Bengaluru (BLR),Cloudy,On-time,Moderate,0.3320770840316816
+Qatar Airways,AI293,14:40,16:45,Singapore (SIN),Frankfurt (FRA),Sunny,On-time,Smooth,0.21278455329265067
+Emirates,EM686,08:54,04:09,Delhi (DEL),Hyderabad (HYD),Rainy,On-time,Smooth,0.33632309452798387
+IndiGo,IN792,01:21,13:00,Bengaluru (BLR),Delhi (DEL),Rainy,Minor Delay,Smooth,0.10233863428170151
+IndiGo,IN127,16:36,16:12,Hyderabad (HYD),Dubai (DXB),Sunny,Major Delay,Smooth,0.17316433283015442
+British Airways,BR218,08:39,00:06,New York (JFK),Delhi (DEL),Sunny,On-time,Heavy,0.3088369876282989
+Lufthansa,LU461,17:30,23:17,Singapore (SIN),Hyderabad (HYD),Rainy,On-time,Smooth,0.4513016150239882
+IndiGo,IN219,14:53,11:32,Hyderabad (HYD),Delhi (DEL),Cloudy,Major Delay,Heavy,0.1073234066791289
+Qatar Airways,AI479,01:55,10:05,Bengaluru (BLR),London (LHR),Rainy,On-time,Smooth,0.18342908274460112
+British Airways,AI431,20:19,02:03,New York (JFK),Dubai (DXB),Sunny,Major Delay,Moderate,0.5472836659906458
+Air India,AI854,23:58,08:16,Singapore (SIN),Delhi (DEL),Rainy,Minor Delay,Heavy,0.41369995090051664
+IndiGo,IN378,00:31,11:50,Hyderabad (HYD),Singapore (SIN),Sunny,On-time,Moderate,0.09190273993897247
+British Airways,AI613,03:52,05:14,Bengaluru (BLR),Hyderabad (HYD),Rainy,Minor Delay,Heavy,0.42028840807825024
+IndiGo,IN971,01:53,01:08,London (LHR),Bengaluru (BLR),Cloudy,Minor Delay,Smooth,0.25289536700664855
+Air India,AI948,19:55,12:17,Bengaluru (BLR),New York (JFK),Sunny,Major Delay,Smooth,0.23104659533114252
+IndiGo,IN989,19:07,22:22,London (LHR),Hyderabad (HYD),Cloudy,Minor Delay,Moderate,0.24857663634442223
+Qatar Airways,QA286,08:52,22:48,Hyderabad (HYD),Frankfurt (FRA),Sunny,Minor Delay,Smooth,0.178929504443731
+British Airways,BR788,10:54,15:33,New York (JFK),London (LHR),Rainy,Minor Delay,Heavy,0.5236175757216124
+Air India,IN753,19:01,19:46,Hyderabad (HYD),Dubai (DXB),Rainy,Minor Delay,Smooth,0.08424079838732709
+Singapore Airlines,AI656,17:23,22:05,Hyderabad (HYD),New York (JFK),Cloudy,Major Delay,Moderate,0.5305184787714304
+IndiGo,IN632,06:55,15:58,Chennai (MAA),New York (JFK),Sunny,Major Delay,Moderate,0.3019771636795359
+Lufthansa,LU330,16:41,21:55,Bengaluru (BLR),Dubai (DXB),Sunny,On-time,Moderate,0.16065307089414624
+Lufthansa,LU216,03:45,22:49,Delhi (DEL),Bengaluru (BLR),Rainy,Minor Delay,Smooth,0.44395512841014173
+IndiGo,IN748,05:08,09:24,Singapore (SIN),Dubai (DXB),Cloudy,On-time,Heavy,0.2648345569446508
+IndiGo,IN989,01:54,12:18,Dubai (DXB),Hyderabad (HYD),Rainy,Major Delay,Smooth,0.05539972205524263
+British Airways,BR337,07:06,03:29,Dubai (DXB),Chennai (MAA),Cloudy,Major Delay,Heavy,0.2354480281199412
+Air India,IN874,12:47,22:54,Bengaluru (BLR),Frankfurt (FRA),Cloudy,On-time,Smooth,0.4368867283337414
+IndiGo,IN632,13:20,21:40,London (LHR),Delhi (DEL),Cloudy,On-time,Moderate,0.2347501931180973
+British Airways,BR408,13:54,03:45,London (LHR),Chennai (MAA),Sunny,On-time,Heavy,0.3304959870338978
+Lufthansa,LU878,14:21,20:34,New York (JFK),Chennai (MAA),Sunny,On-time,Heavy,0.13845267109209825
+British Airways,BR579,08:33,07:04,Mumbai (BOM),Hyderabad (HYD),Cloudy,On-time,Smooth,0.06836450056997097
+Qatar Airways,AI849,22:52,23:47,Delhi (DEL),New York (JFK),Rainy,Minor Delay,Smooth,0.3392070834760361
+Singapore Airlines,SI759,07:52,09:26,Mumbai (BOM),Dubai (DXB),Rainy,On-time,Smooth,0.2219292492658077
+Lufthansa,LU744,16:11,00:59,Mumbai (BOM),Bengaluru (BLR),Sunny,On-time,Heavy,0.28300443026758515
+Qatar Airways,QA206,14:13,09:06,Delhi (DEL),London (LHR),Cloudy,Minor Delay,Moderate,0.5857730975067982
+Singapore Airlines,AI977,04:38,13:32,Chennai (MAA),London (LHR),Sunny,On-time,Smooth,0.4482855126044429
+Air India,IN597,04:54,08:31,New York (JFK),London (LHR),Sunny,Minor Delay,Smooth,0.530313840815887
+Emirates,EM702,02:20,05:45,Singapore (SIN),Dubai (DXB),Sunny,Major Delay,Moderate,0.08385187467281552
+Qatar Airways,QA289,05:34,13:09,Singapore (SIN),Chennai (MAA),Rainy,On-time,Smooth,0.2528547475760523
+Air India,IN993,10:11,21:44,Dubai (DXB),Chennai (MAA),Sunny,Minor Delay,Smooth,0.09871464489677434
+Air India,AI257,09:49,18:06,Singapore (SIN),Frankfurt (FRA),Cloudy,Minor Delay,Heavy,0.5203931146933456
+Singapore Airlines,SI197,04:51,21:40,Frankfurt (FRA),Chennai (MAA),Sunny,Major Delay,Heavy,0.36364798715327007
+British Airways,BR115,02:48,04:30,Bengaluru (BLR),Chennai (MAA),Rainy,Major Delay,Heavy,0.13063203822360508
+Qatar Airways,AI460,01:27,09:43,London (LHR),Frankfurt (FRA),Cloudy,Major Delay,Moderate,0.3225718452291088
+Lufthansa,LU986,11:25,00:57,Singapore (SIN),New York (JFK),Sunny,Minor Delay,Moderate,0.47119729832993756
+Lufthansa,LU465,03:45,20:17,Chennai (MAA),Frankfurt (FRA),Cloudy,On-time,Moderate,0.11652221645569179
+Emirates,EM240,03:11,13:55,Chennai (MAA),London (LHR),Rainy,On-time,Moderate,0.42775706436038835
+Emirates,EM169,01:09,03:07,Dubai (DXB),Delhi (DEL),Rainy,On-time,Moderate,0.3759770829839082
+Emirates,EM208,23:27,14:00,Hyderabad (HYD),Chennai (MAA),Sunny,Major Delay,Smooth,0.5113696072826175
+IndiGo,IN481,11:12,08:35,Frankfurt (FRA),London (LHR),Sunny,On-time,Heavy,0.24928245896298307
+Singapore Airlines,SI898,06:34,13:27,Hyderabad (HYD),Frankfurt (FRA),Sunny,Major Delay,Smooth,0.32924167492345263
+Singapore Airlines,SI399,03:52,20:08,Frankfurt (FRA),London (LHR),Cloudy,Minor Delay,Smooth,0.4933288430375553
+Emirates,EM880,13:57,23:01,Chennai (MAA),Delhi (DEL),Cloudy,Minor Delay,Heavy,0.5031902363923311
+Lufthansa,LU822,02:34,05:27,Delhi (DEL),Singapore (SIN),Sunny,Minor Delay,Heavy,0.3428376118816498
+Qatar Airways,QA500,02:34,12:44,Chennai (MAA),Singapore (SIN),Cloudy,On-time,Moderate,0.48759122537767113
+British Airways,BR155,08:24,08:42,Frankfurt (FRA),Hyderabad (HYD),Cloudy,Major Delay,Smooth,0.5612793621648269
+IndiGo,IN630,16:45,04:44,Frankfurt (FRA),Chennai (MAA),Rainy,Minor Delay,Smooth,0.1340599634267836
+British Airways,BR429,10:53,04:36,Delhi (DEL),Bengaluru (BLR),Sunny,Major Delay,Moderate,0.5315225141915612
+Singapore Airlines,AI823,23:54,10:47,Mumbai (BOM),Singapore (SIN),Rainy,On-time,Moderate,0.32007357169439044
+Singapore Airlines,AI804,02:49,11:33,Chennai (MAA),Frankfurt (FRA),Sunny,Major Delay,Smooth,0.11830614844910525
+Emirates,EM354,21:04,03:31,Mumbai (BOM),Delhi (DEL),Sunny,Minor Delay,Heavy,0.24495206151476218
+Singapore Airlines,AI117,10:07,05:39,Delhi (DEL),Chennai (MAA),Cloudy,Major Delay,Heavy,0.09725835526534857
+Emirates,EM196,02:22,03:50,New York (JFK),Delhi (DEL),Cloudy,On-time,Heavy,0.4947381813978152
+British Airways,BR918,01:12,11:28,Hyderabad (HYD),New York (JFK),Sunny,Minor Delay,Smooth,0.3481970223528049
+IndiGo,IN747,14:50,03:35,Frankfurt (FRA),New York (JFK),Cloudy,Minor Delay,Smooth,0.4479205086144777
+Singapore Airlines,AI765,07:01,16:53,Chennai (MAA),New York (JFK),Cloudy,Major Delay,Moderate,0.09208420418005825
+Lufthansa,LU878,10:22,05:46,Frankfurt (FRA),Singapore (SIN),Cloudy,Major Delay,Smooth,0.15534167307983626
+Qatar Airways,AI235,07:17,01:52,Mumbai (BOM),Hyderabad (HYD),Rainy,Minor Delay,Smooth,0.4280413117449724
+Singapore Airlines,SI858,13:57,02:25,London (LHR),Bengaluru (BLR),Sunny,On-time,Heavy,0.261335126119088
+Emirates,EM723,06:37,06:50,Dubai (DXB),London (LHR),Sunny,Major Delay,Smooth,0.40075465869742366
+Lufthansa,LU755,22:28,01:18,Singapore (SIN),Delhi (DEL),Sunny,Major Delay,Moderate,0.2870271654939304
+Emirates,EM548,15:34,21:56,Mumbai (BOM),Hyderabad (HYD),Sunny,On-time,Smooth,0.42368720539780186
+British Airways,AI329,01:28,08:21,Hyderabad (HYD),Singapore (SIN),Rainy,On-time,Moderate,0.15789632589581054
+Lufthansa,LU570,06:08,08:46,Chennai (MAA),New York (JFK),Rainy,Minor Delay,Heavy,0.1686319119738549
+Qatar Airways,AI945,05:22,14:17,Delhi (DEL),New York (JFK),Rainy,On-time,Smooth,0.36947466255730976
+Emirates,EM173,08:20,17:16,Chennai (MAA),Frankfurt (FRA),Sunny,Minor Delay,Heavy,0.06479892992096459
+Lufthansa,LU339,00:46,17:10,Delhi (DEL),New York (JFK),Rainy,Minor Delay,Moderate,0.08474474059236423
+Singapore Airlines,AI969,23:02,23:03,Bengaluru (BLR),Dubai (DXB),Sunny,Minor Delay,Smooth,0.46747271263751833
+British Airways,AI227,10:58,15:19,Frankfurt (FRA),New York (JFK),Rainy,Major Delay,Smooth,0.2865344677788499
+Qatar Airways,AI912,00:50,18:41,Frankfurt (FRA),Bengaluru (BLR),Sunny,On-time,Moderate,0.20612908926340756
+Emirates,EM131,21:02,19:14,Chennai (MAA),Singapore (SIN),Cloudy,On-time,Smooth,0.15903696606417528
+Singapore Airlines,SI323,12:43,11:23,New York (JFK),Mumbai (BOM),Cloudy,Minor Delay,Heavy,0.5180146853928607
+Qatar Airways,QA644,19:38,12:07,London (LHR),Dubai (DXB),Cloudy,Major Delay,Heavy,0.3129867285369982
+Emirates,EM869,10:50,03:15,Mumbai (BOM),Hyderabad (HYD),Rainy,Minor Delay,Heavy,0.29258734667399483
+Lufthansa,LU983,09:27,17:40,Hyderabad (HYD),Singapore (SIN),Rainy,On-time,Moderate,0.26470896985595666
+Qatar Airways,AI500,06:07,11:01,Chennai (MAA),Bengaluru (BLR),Sunny,On-time,Smooth,0.36920109325828465
+Air India,AI977,19:10,04:43,Mumbai (BOM),London (LHR),Sunny,Minor Delay,Smooth,0.5705699255107728
+Air India,IN266,15:02,02:46,Frankfurt (FRA),Bengaluru (BLR),Rainy,Minor Delay,Moderate,0.597603476876739
+Lufthansa,LU258,03:06,14:09,London (LHR),Dubai (DXB),Rainy,Minor Delay,Moderate,0.4304859581476349
+Emirates,EM568,18:01,21:18,Mumbai (BOM),Frankfurt (FRA),Sunny,Minor Delay,Heavy,0.32513142588675115
+Air India,AI801,03:00,01:54,Dubai (DXB),Hyderabad (HYD),Cloudy,Minor Delay,Moderate,0.40686504971941057
+Qatar Airways,AI227,22:49,22:35,Delhi (DEL),Singapore (SIN),Cloudy,Major Delay,Moderate,0.3297302205443705
+British Airways,BR416,05:19,17:11,New York (JFK),Mumbai (BOM),Cloudy,Major Delay,Smooth,0.14361382796900457
+IndiGo,IN406,06:37,18:30,Chennai (MAA),New York (JFK),Sunny,On-time,Smooth,0.12966158487937549
+IndiGo,IN771,18:59,21:29,Chennai (MAA),Dubai (DXB),Cloudy,On-time,Smooth,0.14792194582248075
+Singapore Airlines,AI190,04:59,23:03,Singapore (SIN),Dubai (DXB),Sunny,Minor Delay,Heavy,0.43956945351688986
+Emirates,EM604,16:24,13:42,London (LHR),Delhi (DEL),Cloudy,Minor Delay,Heavy,0.4109724348756625
+Qatar Airways,QA874,03:54,22:59,Chennai (MAA),London (LHR),Cloudy,Minor Delay,Moderate,0.05869643772690708
+Lufthansa,LU766,09:44,19:11,New York (JFK),Dubai (DXB),Rainy,Minor Delay,Heavy,0.42344082306498565
+Qatar Airways,AI852,08:00,00:09,Mumbai (BOM),Delhi (DEL),Cloudy,On-time,Heavy,0.10818675215603178
+Lufthansa,LU827,03:27,06:22,New York (JFK),Singapore (SIN),Cloudy,Minor Delay,Moderate,0.4865260822167501
+Lufthansa,LU163,23:48,11:27,Bengaluru (BLR),Chennai (MAA),Cloudy,On-time,Moderate,0.4709859191396212
+Air India,IN919,04:57,09:54,Chennai (MAA),Bengaluru (BLR),Rainy,Major Delay,Moderate,0.11115420929733483
+Air India,AI730,04:48,13:55,Delhi (DEL),Frankfurt (FRA),Cloudy,Minor Delay,Moderate,0.39676897847086684
+Lufthansa,LU752,06:50,09:53,Mumbai (BOM),Hyderabad (HYD),Sunny,Major Delay,Moderate,0.09506954683219959
+Qatar Airways,AI586,21:51,06:48,Hyderabad (HYD),Bengaluru (BLR),Cloudy,On-time,Smooth,0.19917932437132702
+British Airways,AI396,15:38,11:43,Chennai (MAA),Delhi (DEL),Cloudy,On-time,Moderate,0.5007724734470519
+Air India,IN339,03:25,09:57,Mumbai (BOM),New York (JFK),Sunny,On-time,Smooth,0.1268878140802513
+British Airways,AI594,03:17,15:58,Frankfurt (FRA),Delhi (DEL),Rainy,Minor Delay,Smooth,0.5023312930496702
+British Airways,AI903,17:08,19:32,Singapore (SIN),Chennai (MAA),Rainy,On-time,Heavy,0.24346186886667254
+Air India,IN500,15:51,08:52,Chennai (MAA),London (LHR),Cloudy,On-time,Moderate,0.36189734009335134
+Qatar Airways,AI700,18:10,10:28,Singapore (SIN),Frankfurt (FRA),Sunny,Minor Delay,Smooth,0.42715730539761904
+IndiGo,IN565,15:16,01:58,Bengaluru (BLR),London (LHR),Rainy,Major Delay,Moderate,0.19789595994088777
+Air India,IN326,16:20,21:41,London (LHR),Mumbai (BOM),Cloudy,Major Delay,Moderate,0.3285452503117194
+Air India,AI288,02:08,12:31,Chennai (MAA),Delhi (DEL),Cloudy,On-time,Heavy,0.32513756320566073
+Lufthansa,LU584,03:50,06:20,Chennai (MAA),London (LHR),Cloudy,Major Delay,Moderate,0.4328744470075132
+Emirates,EM468,01:55,04:12,Dubai (DXB),Mumbai (BOM),Sunny,Major Delay,Heavy,0.13973770269517838
+IndiGo,IN366,07:13,04:35,Dubai (DXB),London (LHR),Cloudy,Major Delay,Smooth,0.18564962044302974
+Emirates,EM152,17:26,23:09,London (LHR),Frankfurt (FRA),Sunny,Major Delay,Heavy,0.305768836096794
+Emirates,EM314,08:35,02:18,Singapore (SIN),Mumbai (BOM),Cloudy,Minor Delay,Heavy,0.5431520244842685
+Qatar Airways,AI113,19:11,09:58,Delhi (DEL),Mumbai (BOM),Rainy,Minor Delay,Moderate,0.5544968667696624
+Air India,IN494,18:57,17:49,Mumbai (BOM),Delhi (DEL),Rainy,Minor Delay,Heavy,0.23437384092261737
+British Airways,AI834,07:20,17:38,London (LHR),Mumbai (BOM),Rainy,Minor Delay,Smooth,0.5702166602797608
+British Airways,BR434,09:57,02:55,Mumbai (BOM),London (LHR),Sunny,Major Delay,Moderate,0.34019445987928215
+Singapore Airlines,SI971,15:05,01:28,Hyderabad (HYD),Delhi (DEL),Cloudy,On-time,Smooth,0.2266499679324031
+Singapore Airlines,AI918,18:21,23:13,Singapore (SIN),New York (JFK),Cloudy,On-time,Smooth,0.4835266189715031
+Air India,AI325,12:25,07:54,London (LHR),New York (JFK),Cloudy,Major Delay,Moderate,0.5986594849478651
+Air India,AI448,19:35,21:28,Frankfurt (FRA),Chennai (MAA),Rainy,Major Delay,Moderate,0.2941773440848058
+Qatar Airways,QA175,21:28,22:04,Bengaluru (BLR),Frankfurt (FRA),Sunny,Major Delay,Smooth,0.12711218564522475
+IndiGo,IN624,08:17,06:53,Chennai (MAA),Delhi (DEL),Cloudy,On-time,Smooth,0.5633915165827842
+IndiGo,IN498,16:52,22:13,Mumbai (BOM),London (LHR),Cloudy,Minor Delay,Heavy,0.12534159317217625
+IndiGo,IN244,22:31,13:52,Delhi (DEL),London (LHR),Sunny,Minor Delay,Moderate,0.27328124209188565
+Qatar Airways,AI349,20:56,08:11,London (LHR),Mumbai (BOM),Rainy,Major Delay,Moderate,0.5002721604012446
+British Airways,AI386,16:12,10:28,Chennai (MAA),New York (JFK),Sunny,Minor Delay,Smooth,0.34266460531869236
+Singapore Airlines,SI157,11:29,12:19,Singapore (SIN),Dubai (DXB),Rainy,Minor Delay,Moderate,0.5953469105802314
+Lufthansa,LU660,19:07,07:31,Bengaluru (BLR),Mumbai (BOM),Cloudy,Minor Delay,Smooth,0.1762183985585617
+Air India,IN863,14:19,01:14,Hyderabad (HYD),Chennai (MAA),Sunny,Major Delay,Moderate,0.4589970411054209
+Air India,AI980,11:13,23:17,Frankfurt (FRA),New York (JFK),Cloudy,Minor Delay,Smooth,0.5079446158655795
+Qatar Airways,AI805,12:50,06:30,Chennai (MAA),London (LHR),Rainy,Major Delay,Smooth,0.06364080699794067
+Lufthansa,LU520,07:30,14:26,Delhi (DEL),London (LHR),Sunny,Major Delay,Moderate,0.3802132120266625
+Emirates,EM200,23:56,07:26,Frankfurt (FRA),London (LHR),Cloudy,Minor Delay,Heavy,0.3063678255515912
+Lufthansa,LU430,15:49,10:57,Singapore (SIN),Hyderabad (HYD),Cloudy,On-time,Smooth,0.21553731877631144
+Air India,AI896,12:28,04:11,Dubai (DXB),London (LHR),Cloudy,Minor Delay,Moderate,0.2826469991822729
+Singapore Airlines,AI730,06:38,23:29,Delhi (DEL),Chennai (MAA),Rainy,Minor Delay,Moderate,0.59742626325507
+IndiGo,IN863,03:29,20:09,London (LHR),Hyderabad (HYD),Cloudy,Major Delay,Heavy,0.5407238615532387
+Singapore Airlines,SI856,16:47,23:29,Frankfurt (FRA),Mumbai (BOM),Rainy,Minor Delay,Moderate,0.14160627540557802
+Singapore Airlines,SI286,19:03,11:29,Chennai (MAA),Frankfurt (FRA),Rainy,Minor Delay,Smooth,0.12907386798923368
+British Airways,AI281,21:36,02:06,New York (JFK),Chennai (MAA),Cloudy,Major Delay,Heavy,0.09344095221226209
+Emirates,EM653,14:11,00:42,Chennai (MAA),Frankfurt (FRA),Cloudy,Major Delay,Heavy,0.5846997046925599
+Air India,IN922,10:21,06:49,Bengaluru (BLR),Hyderabad (HYD),Sunny,Major Delay,Moderate,0.1547947147813562
+IndiGo,IN338,09:05,03:08,Bengaluru (BLR),Mumbai (BOM),Sunny,Minor Delay,Heavy,0.5520489021863505
+Qatar Airways,AI622,15:01,06:36,Dubai (DXB),Singapore (SIN),Rainy,Major Delay,Heavy,0.3331795787528071
+Singapore Airlines,AI900,16:15,15:41,Bengaluru (BLR),Chennai (MAA),Rainy,On-time,Heavy,0.13615803241931765
+Emirates,EM630,06:00,17:00,Frankfurt (FRA),New York (JFK),Rainy,Major Delay,Moderate,0.2988728152577233
+Singapore Airlines,AI608,16:35,14:34,Delhi (DEL),London (LHR),Rainy,On-time,Moderate,0.25490577374070744
+Qatar Airways,AI929,00:31,13:36,Chennai (MAA),Dubai (DXB),Rainy,Major Delay,Moderate,0.1833172654717355
+Singapore Airlines,SI755,22:41,13:04,Singapore (SIN),Frankfurt (FRA),Rainy,On-time,Heavy,0.5540824651828703
+Emirates,EM318,04:02,18:39,Bengaluru (BLR),New York (JFK),Sunny,Major Delay,Heavy,0.46873191801335307
+British Airways,BR435,13:34,23:18,Bengaluru (BLR),Dubai (DXB),Sunny,Minor Delay,Smooth,0.17800671804114554
+Emirates,EM140,00:45,14:19,New York (JFK),Hyderabad (HYD),Cloudy,Major Delay,Smooth,0.5016963015866884
+Lufthansa,LU189,23:56,09:53,Mumbai (BOM),Singapore (SIN),Sunny,Major Delay,Heavy,0.41857190626930074
+British Airways,AI617,01:18,09:29,Hyderabad (HYD),Dubai (DXB),Sunny,On-time,Heavy,0.3962163773082118
+Air India,IN785,18:13,17:35,Chennai (MAA),Frankfurt (FRA),Rainy,On-time,Moderate,0.325665440737315
+British Airways,AI523,08:15,03:55,London (LHR),New York (JFK),Cloudy,Minor Delay,Moderate,0.4860032538648354
+Qatar Airways,AI848,08:19,05:48,Singapore (SIN),Chennai (MAA),Sunny,On-time,Smooth,0.5583423048120061
+Singapore Airlines,AI221,12:45,13:46,Hyderabad (HYD),Chennai (MAA),Rainy,Major Delay,Smooth,0.5825279625325547
+IndiGo,IN306,22:21,13:16,Frankfurt (FRA),Bengaluru (BLR),Rainy,Minor Delay,Heavy,0.36060716255514985
+Qatar Airways,QA937,23:58,07:49,New York (JFK),Mumbai (BOM),Rainy,On-time,Moderate,0.4361859652731782
+IndiGo,IN356,11:55,02:48,Bengaluru (BLR),Mumbai (BOM),Sunny,Minor Delay,Heavy,0.5710527931067078
+British Airways,BR299,01:20,02:49,Singapore (SIN),Chennai (MAA),Sunny,On-time,Moderate,0.4922214095751381
+Singapore Airlines,AI873,06:55,09:43,New York (JFK),Frankfurt (FRA),Rainy,Minor Delay,Smooth,0.3225058024984834
+British Airways,AI627,17:46,17:20,Bengaluru (BLR),London (LHR),Sunny,Major Delay,Smooth,0.537313006980945
+IndiGo,IN136,18:19,21:49,Bengaluru (BLR),Hyderabad (HYD),Rainy,On-time,Moderate,0.08034164089737195
+British Airways,BR376,22:57,02:19,Delhi (DEL),Mumbai (BOM),Cloudy,Major Delay,Moderate,0.15654347775228078
+Lufthansa,LU153,17:10,17:45,Hyderabad (HYD),Bengaluru (BLR),Cloudy,Minor Delay,Smooth,0.14851040319750125
+Singapore Airlines,AI418,05:01,13:29,London (LHR),Hyderabad (HYD),Rainy,Major Delay,Moderate,0.25394636628773204
+Air India,AI936,13:37,17:39,Singapore (SIN),London (LHR),Cloudy,Major Delay,Smooth,0.3139300626750311
+British Airways,AI666,12:34,04:13,Hyderabad (HYD),Bengaluru (BLR),Sunny,Major Delay,Smooth,0.4282749976268649
+Lufthansa,LU892,05:38,23:56,Delhi (DEL),London (LHR),Sunny,On-time,Moderate,0.24009295189696694
+British Airways,AI958,09:53,16:56,Chennai (MAA),Hyderabad (HYD),Sunny,Major Delay,Heavy,0.2591645617529352
+Air India,AI215,18:41,23:48,Dubai (DXB),Chennai (MAA),Cloudy,Major Delay,Heavy,0.1783554022773644
+IndiGo,IN209,23:05,18:29,Chennai (MAA),London (LHR),Sunny,Minor Delay,Moderate,0.49340502297354616
+Lufthansa,LU700,19:15,20:51,New York (JFK),Bengaluru (BLR),Cloudy,Minor Delay,Heavy,0.2817185626947397
+Singapore Airlines,AI247,10:44,04:18,Hyderabad (HYD),London (LHR),Sunny,On-time,Smooth,0.23851654851135679
+British Airways,AI731,10:18,08:10,Frankfurt (FRA),Chennai (MAA),Rainy,Minor Delay,Smooth,0.32593897434577956
+Lufthansa,LU989,06:40,18:03,Hyderabad (HYD),Chennai (MAA),Rainy,On-time,Moderate,0.08497041851994375
+British Airways,BR400,05:44,08:06,Chennai (MAA),Hyderabad (HYD),Sunny,Major Delay,Heavy,0.3321795911246839
+British Airways,AI700,05:49,07:47,Chennai (MAA),Mumbai (BOM),Rainy,Major Delay,Heavy,0.20383951068036082
+Lufthansa,LU786,21:08,14:38,Mumbai (BOM),Delhi (DEL),Rainy,Major Delay,Smooth,0.4924979068311086
+IndiGo,IN978,03:29,17:12,Bengaluru (BLR),Chennai (MAA),Rainy,On-time,Moderate,0.09401408600500916
+Singapore Airlines,SI810,10:18,22:45,Frankfurt (FRA),Hyderabad (HYD),Sunny,On-time,Smooth,0.37117656726449344
+British Airways,BR438,20:32,16:26,London (LHR),Chennai (MAA),Sunny,Major Delay,Heavy,0.094437901344465
+IndiGo,IN267,15:10,02:54,New York (JFK),London (LHR),Sunny,On-time,Smooth,0.06874321054696281
+Qatar Airways,QA730,05:30,01:03,London (LHR),Dubai (DXB),Rainy,Minor Delay,Smooth,0.06963953210875351
+Singapore Airlines,AI100,17:44,11:08,Dubai (DXB),Mumbai (BOM),Cloudy,Minor Delay,Heavy,0.066852044553046
+Air India,AI937,04:03,23:51,Frankfurt (FRA),Delhi (DEL),Cloudy,On-time,Smooth,0.5157571794047074
+Singapore Airlines,AI594,11:44,00:42,Delhi (DEL),Bengaluru (BLR),Sunny,Minor Delay,Heavy,0.44461957165355953
+British Airways,BR468,20:33,16:33,Mumbai (BOM),Chennai (MAA),Sunny,Minor Delay,Smooth,0.33741359699024426
+Lufthansa,LU406,02:49,11:53,Hyderabad (HYD),New York (JFK),Sunny,On-time,Heavy,0.37183964779296524
+Emirates,EM394,16:59,20:25,Mumbai (BOM),New York (JFK),Rainy,Major Delay,Moderate,0.12719789643852042
+Lufthansa,LU433,00:00,13:06,Singapore (SIN),Dubai (DXB),Sunny,Minor Delay,Heavy,0.18468090039103768
+Air India,AI721,09:53,23:42,Chennai (MAA),Frankfurt (FRA),Sunny,Major Delay,Heavy,0.3583423106706545
+Emirates,EM327,04:32,09:12,Delhi (DEL),Hyderabad (HYD),Sunny,Major Delay,Moderate,0.20198309182664925
+British Airways,AI269,22:59,09:19,Mumbai (BOM),Singapore (SIN),Sunny,Minor Delay,Moderate,0.3786335521657042
+Qatar Airways,QA966,02:43,00:48,Delhi (DEL),Singapore (SIN),Cloudy,Major Delay,Moderate,0.4009011055822271
+Singapore Airlines,AI589,05:19,06:18,Delhi (DEL),Singapore (SIN),Rainy,On-time,Smooth,0.2411612771306394
+Emirates,EM570,05:18,03:41,London (LHR),Bengaluru (BLR),Cloudy,Major Delay,Moderate,0.5684280649286014
+Air India,IN750,13:29,11:54,New York (JFK),Hyderabad (HYD),Rainy,Minor Delay,Heavy,0.1448128928656668
+British Airways,BR681,08:58,05:02,Delhi (DEL),London (LHR),Sunny,Minor Delay,Heavy,0.541102380951061
+Singapore Airlines,AI730,21:52,17:59,Mumbai (BOM),Frankfurt (FRA),Rainy,Major Delay,Smooth,0.4626907089955988
+Singapore Airlines,AI842,12:16,20:36,Hyderabad (HYD),Delhi (DEL),Rainy,On-time,Moderate,0.5545881188764177
+IndiGo,IN590,19:52,11:01,Hyderabad (HYD),Mumbai (BOM),Sunny,On-time,Smooth,0.1382193149399912
+Air India,AI461,15:05,06:08,Delhi (DEL),Hyderabad (HYD),Rainy,On-time,Heavy,0.36121316497009637
+Emirates,EM672,23:24,13:29,New York (JFK),Bengaluru (BLR),Rainy,Minor Delay,Moderate,0.4955873872030752
+British Airways,BR321,07:54,22:30,Bengaluru (BLR),Hyderabad (HYD),Sunny,Minor Delay,Smooth,0.12221877789647495
+Singapore Airlines,AI329,20:58,05:42,Bengaluru (BLR),Hyderabad (HYD),Sunny,On-time,Moderate,0.09916713297794402
+IndiGo,IN676,06:05,22:05,Hyderabad (HYD),Mumbai (BOM),Sunny,Major Delay,Smooth,0.5241511955091401
+British Airways,BR108,04:49,13:14,Delhi (DEL),Singapore (SIN),Rainy,Minor Delay,Smooth,0.22730630351535197
+Emirates,EM932,00:48,20:11,Chennai (MAA),Dubai (DXB),Rainy,Minor Delay,Smooth,0.21190423001644598
+Emirates,EM560,07:08,09:20,Delhi (DEL),Chennai (MAA),Rainy,Major Delay,Moderate,0.4787119194031645
+British Airways,AI131,06:15,07:00,Bengaluru (BLR),Mumbai (BOM),Cloudy,On-time,Smooth,0.25713600593152086
+Qatar Airways,QA621,00:42,00:58,Mumbai (BOM),London (LHR),Cloudy,Major Delay,Moderate,0.3014001123901656
+Qatar Airways,QA676,16:17,05:50,Dubai (DXB),Singapore (SIN),Sunny,On-time,Moderate,0.3715029985373598
+Singapore Airlines,AI370,02:04,11:32,Bengaluru (BLR),Singapore (SIN),Sunny,On-time,Heavy,0.15708420408250454
+Lufthansa,LU556,22:13,10:10,Dubai (DXB),Bengaluru (BLR),Cloudy,Minor Delay,Heavy,0.06297362061188333
+Singapore Airlines,AI552,18:31,13:44,New York (JFK),Singapore (SIN),Cloudy,On-time,Smooth,0.49018167713053834
+IndiGo,IN975,09:56,05:53,London (LHR),Chennai (MAA),Sunny,Minor Delay,Moderate,0.4541294681136451
+IndiGo,IN746,09:11,15:14,London (LHR),Mumbai (BOM),Sunny,Minor Delay,Smooth,0.3064998722389258
+British Airways,BR459,02:22,17:01,Frankfurt (FRA),London (LHR),Rainy,Minor Delay,Heavy,0.11925643764668856
+IndiGo,IN812,22:29,09:20,Bengaluru (BLR),New York (JFK),Cloudy,Minor Delay,Moderate,0.5477478535220606
+Qatar Airways,AI786,11:18,16:28,Mumbai (BOM),Dubai (DXB),Sunny,Major Delay,Moderate,0.08397208833752928
+Air India,AI841,10:09,13:09,Singapore (SIN),New York (JFK),Cloudy,On-time,Moderate,0.21328910827872644
+Qatar Airways,AI767,19:09,01:04,Singapore (SIN),Chennai (MAA),Cloudy,On-time,Heavy,0.29954554400576267
+Air India,IN287,01:36,17:30,Frankfurt (FRA),Chennai (MAA),Cloudy,Major Delay,Moderate,0.44076542143264646
+Air India,IN829,18:32,19:13,Singapore (SIN),Chennai (MAA),Sunny,Major Delay,Heavy,0.5635827898174537
+Singapore Airlines,AI342,17:49,20:10,Frankfurt (FRA),Bengaluru (BLR),Sunny,Major Delay,Moderate,0.5003666354023936
+Emirates,EM912,06:33,18:40,Dubai (DXB),Frankfurt (FRA),Sunny,Minor Delay,Moderate,0.5037798197657208
+Qatar Airways,AI990,15:11,22:54,Mumbai (BOM),Delhi (DEL),Cloudy,On-time,Smooth,0.10723075082432637
+British Airways,AI302,01:31,16:25,Dubai (DXB),Delhi (DEL),Rainy,Major Delay,Moderate,0.5685884686805565
+Singapore Airlines,SI452,22:24,08:01,New York (JFK),London (LHR),Sunny,Major Delay,Smooth,0.49375278550224777
+Lufthansa,LU175,17:10,10:51,Frankfurt (FRA),Bengaluru (BLR),Cloudy,Major Delay,Heavy,0.2708925660654875
+Qatar Airways,QA232,19:05,10:26,Singapore (SIN),London (LHR),Sunny,Minor Delay,Heavy,0.3418035274196318
+Qatar Airways,AI705,03:11,04:51,Delhi (DEL),Hyderabad (HYD),Sunny,Minor Delay,Smooth,0.4868423128978033
+Singapore Airlines,AI446,06:55,16:29,Delhi (DEL),Dubai (DXB),Cloudy,Minor Delay,Moderate,0.07327061104032075
+IndiGo,IN713,09:32,17:08,Delhi (DEL),Hyderabad (HYD),Cloudy,Minor Delay,Moderate,0.43405018704916504
+IndiGo,IN915,00:33,08:11,Dubai (DXB),London (LHR),Sunny,Minor Delay,Moderate,0.4684399110287639
+Singapore Airlines,SI604,10:14,10:49,Chennai (MAA),Bengaluru (BLR),Sunny,Minor Delay,Moderate,0.5325046433395446
+Air India,IN234,10:17,09:14,London (LHR),Singapore (SIN),Rainy,Major Delay,Moderate,0.2640743302959245
+Emirates,EM483,12:54,19:53,Bengaluru (BLR),Delhi (DEL),Sunny,Minor Delay,Heavy,0.27243970324417977
+IndiGo,IN498,15:31,16:37,London (LHR),Hyderabad (HYD),Rainy,Major Delay,Heavy,0.2424773829958735
+Lufthansa,LU789,14:37,06:50,London (LHR),Dubai (DXB),Sunny,Minor Delay,Moderate,0.4967645664126655
+Air India,IN551,02:52,21:00,Frankfurt (FRA),Singapore (SIN),Sunny,On-time,Heavy,0.2290706814401151
+IndiGo,IN501,10:00,06:32,Bengaluru (BLR),Delhi (DEL),Sunny,Minor Delay,Heavy,0.2530807946131288
+Air India,AI151,04:50,04:33,London (LHR),Singapore (SIN),Sunny,On-time,Heavy,0.38749933041286444
+Emirates,EM954,22:50,16:45,Bengaluru (BLR),Chennai (MAA),Cloudy,Minor Delay,Heavy,0.44976608400948787
+Qatar Airways,QA937,21:55,01:05,Mumbai (BOM),Frankfurt (FRA),Sunny,Major Delay,Moderate,0.5460172695887685
+Singapore Airlines,AI153,10:11,13:08,New York (JFK),Mumbai (BOM),Rainy,Minor Delay,Heavy,0.3123660268198673
+Singapore Airlines,SI202,05:14,23:17,Frankfurt (FRA),Dubai (DXB),Cloudy,Major Delay,Smooth,0.414764559662205
+Qatar Airways,QA410,06:40,07:18,Singapore (SIN),Mumbai (BOM),Cloudy,On-time,Smooth,0.3902813530188071
+British Airways,AI962,09:56,17:57,Bengaluru (BLR),Singapore (SIN),Rainy,On-time,Smooth,0.1311599760725986
+British Airways,BR233,10:18,23:58,London (LHR),Delhi (DEL),Rainy,Minor Delay,Smooth,0.5333430956776599
+Air India,IN965,22:01,03:41,Delhi (DEL),Chennai (MAA),Sunny,On-time,Smooth,0.4370294547482007
+Qatar Airways,QA122,09:45,03:08,Frankfurt (FRA),Hyderabad (HYD),Cloudy,On-time,Heavy,0.06954091273349283
+IndiGo,IN441,14:04,21:13,London (LHR),Bengaluru (BLR),Sunny,On-time,Smooth,0.4772368967186202
+IndiGo,IN256,21:17,12:08,London (LHR),New York (JFK),Cloudy,Minor Delay,Smooth,0.26780747674241934
+Lufthansa,LU551,03:15,02:05,Mumbai (BOM),Delhi (DEL),Sunny,On-time,Smooth,0.09137502294225236
+IndiGo,IN401,22:47,11:01,Dubai (DXB),Singapore (SIN),Rainy,On-time,Smooth,0.35159402267986495
+Singapore Airlines,SI339,04:47,19:22,Chennai (MAA),Hyderabad (HYD),Rainy,Minor Delay,Smooth,0.4871300877077178
+Air India,IN703,14:33,23:20,Delhi (DEL),Hyderabad (HYD),Sunny,On-time,Moderate,0.5571358731606318
+Emirates,EM581,00:28,04:23,Mumbai (BOM),Singapore (SIN),Rainy,Major Delay,Moderate,0.2080447013090007
+Qatar Airways,QA970,13:34,00:41,Bengaluru (BLR),Dubai (DXB),Cloudy,Major Delay,Smooth,0.145996446502329
+Air India,IN907,08:14,08:41,Chennai (MAA),London (LHR),Rainy,Major Delay,Smooth,0.1217301023339491
+Qatar Airways,QA921,01:53,17:28,Chennai (MAA),Hyderabad (HYD),Rainy,Major Delay,Smooth,0.23832639972277342
+IndiGo,IN890,12:06,00:10,Dubai (DXB),Hyderabad (HYD),Rainy,On-time,Heavy,0.3702703551222258
+Emirates,EM540,14:13,11:49,Hyderabad (HYD),Bengaluru (BLR),Cloudy,Minor Delay,Moderate,0.16614290434834184
+Lufthansa,LU863,08:03,09:09,Mumbai (BOM),Chennai (MAA),Cloudy,Minor Delay,Smooth,0.3017605002201468
+Singapore Airlines,SI458,01:37,04:22,Singapore (SIN),Delhi (DEL),Sunny,Major Delay,Smooth,0.5362925459310492
+Air India,IN124,10:58,14:32,London (LHR),Chennai (MAA),Sunny,Minor Delay,Heavy,0.3119456138962872
+Lufthansa,LU194,19:44,14:02,Dubai (DXB),Singapore (SIN),Cloudy,On-time,Smooth,0.4866485525648286
+Qatar Airways,AI756,03:59,05:02,Mumbai (BOM),Chennai (MAA),Cloudy,Major Delay,Moderate,0.27282414422360995
+Lufthansa,LU804,10:58,11:48,Frankfurt (FRA),Chennai (MAA),Sunny,Minor Delay,Heavy,0.23432982031971505
+Lufthansa,LU315,21:28,02:24,Frankfurt (FRA),Bengaluru (BLR),Sunny,Major Delay,Smooth,0.30979378312378564
+British Airways,BR915,09:12,00:11,Mumbai (BOM),New York (JFK),Sunny,Minor Delay,Moderate,0.2226925606659682
+Lufthansa,LU455,07:55,22:55,Bengaluru (BLR),London (LHR),Rainy,Minor Delay,Moderate,0.5881629252472944
+British Airways,AI273,01:21,22:35,London (LHR),Singapore (SIN),Cloudy,Minor Delay,Moderate,0.33793947790647727
+Singapore Airlines,SI695,17:03,20:20,Hyderabad (HYD),London (LHR),Cloudy,Major Delay,Smooth,0.10747343421963422
+Air India,IN978,17:17,17:50,Bengaluru (BLR),Dubai (DXB),Sunny,Major Delay,Smooth,0.49115473372911334
+Qatar Airways,QA782,07:31,14:18,New York (JFK),Singapore (SIN),Rainy,On-time,Smooth,0.071931819092894
+Singapore Airlines,AI455,14:24,01:18,Delhi (DEL),Bengaluru (BLR),Rainy,Major Delay,Smooth,0.13539020509699604
+Qatar Airways,AI219,14:01,07:54,Bengaluru (BLR),Hyderabad (HYD),Rainy,On-time,Heavy,0.07739869960600461
+British Airways,AI707,13:55,21:20,Hyderabad (HYD),London (LHR),Rainy,On-time,Moderate,0.15029559348766186
+IndiGo,IN240,22:30,08:14,Singapore (SIN),Bengaluru (BLR),Rainy,On-time,Moderate,0.3657652907217356
+Emirates,EM750,21:24,08:14,Bengaluru (BLR),Delhi (DEL),Sunny,On-time,Moderate,0.054135441079473504
+Lufthansa,LU776,10:04,03:44,Mumbai (BOM),London (LHR),Sunny,Minor Delay,Smooth,0.3530168803044371
+British Airways,AI570,10:35,04:15,Singapore (SIN),Frankfurt (FRA),Cloudy,On-time,Moderate,0.4365934683720409
+Qatar Airways,QA112,11:22,11:55,London (LHR),Bengaluru (BLR),Sunny,On-time,Moderate,0.2936163909399766
+Emirates,EM453,22:37,22:19,Bengaluru (BLR),Chennai (MAA),Cloudy,Major Delay,Moderate,0.2793054123485229
+Lufthansa,LU262,17:02,22:59,Hyderabad (HYD),New York (JFK),Cloudy,Minor Delay,Heavy,0.412074564211841
+Qatar Airways,QA154,04:04,07:38,Frankfurt (FRA),New York (JFK),Cloudy,Minor Delay,Smooth,0.15618327021677295
+Air India,AI745,22:40,22:59,Delhi (DEL),Bengaluru (BLR),Sunny,On-time,Heavy,0.5604032971333076
+British Airways,BR720,04:06,02:47,Delhi (DEL),Hyderabad (HYD),Cloudy,Minor Delay,Heavy,0.36824436500267765
+Emirates,EM739,20:14,07:30,Dubai (DXB),Bengaluru (BLR),Sunny,On-time,Smooth,0.06497139211417205
+Emirates,EM785,11:02,00:33,Delhi (DEL),Frankfurt (FRA),Rainy,Minor Delay,Heavy,0.459076584239353
+British Airways,AI166,06:28,05:37,Mumbai (BOM),Chennai (MAA),Cloudy,Major Delay,Heavy,0.5566715694780581
+British Airways,AI738,17:21,04:36,Singapore (SIN),Delhi (DEL),Cloudy,On-time,Moderate,0.592826287764685
+British Airways,BR919,16:07,02:23,London (LHR),New York (JFK),Cloudy,On-time,Moderate,0.16981782114254973
+Lufthansa,LU420,04:40,15:19,Hyderabad (HYD),New York (JFK),Rainy,Major Delay,Heavy,0.27472560000331264
+Air India,AI999,22:19,02:01,Bengaluru (BLR),Hyderabad (HYD),Rainy,Major Delay,Moderate,0.21694800239870782
+Emirates,EM696,07:31,02:05,Mumbai (BOM),Frankfurt (FRA),Sunny,Minor Delay,Moderate,0.3939232429704114
+Qatar Airways,QA464,12:28,08:28,Frankfurt (FRA),Delhi (DEL),Cloudy,Minor Delay,Moderate,0.18817737003386503
+IndiGo,IN741,14:43,06:01,Singapore (SIN),Mumbai (BOM),Cloudy,On-time,Heavy,0.5912021266693972
+Emirates,EM165,04:54,06:56,New York (JFK),Singapore (SIN),Cloudy,On-time,Heavy,0.284630023276511
+Qatar Airways,AI455,13:07,03:42,London (LHR),Hyderabad (HYD),Sunny,On-time,Smooth,0.5796713997894358
+Lufthansa,LU894,01:42,17:31,Mumbai (BOM),Chennai (MAA),Cloudy,Major Delay,Moderate,0.5221129416546147
+Qatar Airways,QA544,23:13,06:05,Dubai (DXB),Hyderabad (HYD),Rainy,Minor Delay,Smooth,0.4561338499374143
+Qatar Airways,QA328,06:28,13:31,Singapore (SIN),London (LHR),Rainy,Major Delay,Smooth,0.2885100504138376
+Lufthansa,LU664,14:22,05:11,Dubai (DXB),Bengaluru (BLR),Sunny,Minor Delay,Heavy,0.06088124829577635
+Singapore Airlines,AI932,11:52,23:19,New York (JFK),Chennai (MAA),Rainy,Minor Delay,Moderate,0.5894015456414569
+Qatar Airways,QA870,09:09,18:20,Bengaluru (BLR),Mumbai (BOM),Sunny,Major Delay,Heavy,0.2648295593674757
+British Airways,AI428,01:05,18:42,Bengaluru (BLR),Dubai (DXB),Cloudy,Major Delay,Heavy,0.23549085577551554
+British Airways,BR814,23:52,04:53,Frankfurt (FRA),London (LHR),Sunny,On-time,Smooth,0.3979380489331684
+Lufthansa,LU142,21:53,22:48,Hyderabad (HYD),New York (JFK),Cloudy,On-time,Smooth,0.5559288267208288
+IndiGo,IN137,06:49,12:48,Chennai (MAA),New York (JFK),Rainy,Major Delay,Heavy,0.34666090396395766
+Emirates,EM718,12:35,01:02,Bengaluru (BLR),Hyderabad (HYD),Rainy,Minor Delay,Heavy,0.4742425841532056
+British Airways,AI788,18:39,12:18,London (LHR),Dubai (DXB),Sunny,Major Delay,Heavy,0.3314386380386222
+Emirates,EM698,06:36,16:23,New York (JFK),Dubai (DXB),Sunny,On-time,Smooth,0.09093883859696825
+Air India,AI112,03:56,17:38,Frankfurt (FRA),Singapore (SIN),Rainy,On-time,Moderate,0.07927270658977306
+Qatar Airways,QA831,15:49,02:30,Bengaluru (BLR),Hyderabad (HYD),Cloudy,On-time,Moderate,0.5034325206132608
+Lufthansa,LU697,11:31,22:28,Bengaluru (BLR),Dubai (DXB),Rainy,On-time,Smooth,0.06703087809522842
+Singapore Airlines,SI109,19:26,04:46,New York (JFK),Hyderabad (HYD),Sunny,On-time,Heavy,0.5174838636185889
+IndiGo,IN499,04:22,00:55,Singapore (SIN),London (LHR),Sunny,Minor Delay,Moderate,0.1785510639767705
+British Airways,BR176,21:07,06:20,Singapore (SIN),London (LHR),Rainy,Minor Delay,Smooth,0.17886941498492376
+Emirates,EM980,04:00,00:55,Dubai (DXB),Mumbai (BOM),Rainy,On-time,Heavy,0.31221869332255464
+Emirates,EM835,23:18,00:20,New York (JFK),Delhi (DEL),Cloudy,On-time,Smooth,0.07143463514256054
+Emirates,EM722,19:44,22:07,London (LHR),Singapore (SIN),Sunny,Major Delay,Moderate,0.18765867731695923
+IndiGo,IN222,00:59,15:36,Bengaluru (BLR),London (LHR),Sunny,Minor Delay,Smooth,0.47915316675402064
+Air India,AI427,17:08,10:24,Mumbai (BOM),Chennai (MAA),Cloudy,Minor Delay,Heavy,0.40920499562967994
+Qatar Airways,AI741,21:41,19:41,Frankfurt (FRA),Singapore (SIN),Cloudy,Major Delay,Smooth,0.5664294554553702
+British Airways,BR455,08:50,00:05,London (LHR),Singapore (SIN),Cloudy,On-time,Smooth,0.2926755765375529
+Air India,AI203,12:58,07:12,Frankfurt (FRA),Bengaluru (BLR),Rainy,On-time,Heavy,0.32967708382126787
+Air India,AI847,05:26,13:12,Mumbai (BOM),Dubai (DXB),Cloudy,On-time,Moderate,0.14540006237735031
+Air India,IN539,02:16,22:35,Dubai (DXB),Singapore (SIN),Sunny,On-time,Smooth,0.4055500990160052
+Emirates,EM487,06:30,17:17,Bengaluru (BLR),New York (JFK),Sunny,Minor Delay,Heavy,0.37148999644334996
+Singapore Airlines,AI579,00:29,14:52,Singapore (SIN),Mumbai (BOM),Cloudy,Major Delay,Moderate,0.4866586544756694
+Emirates,EM323,16:22,15:57,Bengaluru (BLR),Chennai (MAA),Rainy,On-time,Smooth,0.13446025694400365
+British Airways,AI212,11:28,12:41,Mumbai (BOM),Chennai (MAA),Rainy,On-time,Heavy,0.3479776007129145
+Qatar Airways,QA518,04:30,17:18,Mumbai (BOM),Bengaluru (BLR),Sunny,On-time,Heavy,0.14130688678265954
+Lufthansa,LU725,06:10,15:38,Bengaluru (BLR),Singapore (SIN),Cloudy,Major Delay,Heavy,0.5099233889671766
+Air India,AI940,04:40,12:01,Singapore (SIN),Chennai (MAA),Rainy,Minor Delay,Moderate,0.19956865019841846
+Lufthansa,LU877,05:01,17:41,Hyderabad (HYD),London (LHR),Rainy,On-time,Moderate,0.45581812403913763
+Lufthansa,LU351,22:49,17:47,London (LHR),Singapore (SIN),Sunny,Major Delay,Heavy,0.0803956426098401
+IndiGo,IN277,06:12,01:44,Chennai (MAA),New York (JFK),Rainy,Minor Delay,Heavy,0.5765124221242772
+IndiGo,IN634,20:00,22:29,Dubai (DXB),Delhi (DEL),Rainy,Major Delay,Heavy,0.48971203623152565
+Lufthansa,LU122,02:52,07:44,Bengaluru (BLR),Frankfurt (FRA),Sunny,On-time,Moderate,0.08843712032612454
+Lufthansa,LU949,01:19,14:21,Hyderabad (HYD),Frankfurt (FRA),Cloudy,Major Delay,Heavy,0.07809570047998636
